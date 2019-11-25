@@ -1,0 +1,6 @@
+/[Dd]ebug/
+/[Rr]elease/
+.settings/
+.cproject
+.project
+*.db
